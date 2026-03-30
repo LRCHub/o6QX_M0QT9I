@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Beat Is Jumping",
+  "base_artist": "Morgan Seatree and Carla Monroe",
+  "createdAt": "2026-03-30T10:01:07.566121Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beat Is Jumping",
+      "artist": "Morgan Seatree,Carla Monroe",
+      "has_synced": true,
+      "path": "select/01_Beat_Is_Jumping_Morgan_Seatree,Carla_Monroe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beat is jumping",
+      "artist": "Morgan Seatree & Carla Monroe",
+      "has_synced": true,
+      "path": "select/02_Beat_is_jumping_Morgan_Seatree_&_Carla_Monroe.lrc"
+    }
+  ]
+}
